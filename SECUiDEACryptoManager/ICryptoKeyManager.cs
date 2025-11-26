@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SECUiDEACryptoManager
+﻿namespace CryptoManager
 {
     public interface ICryptoKeyManager
     {

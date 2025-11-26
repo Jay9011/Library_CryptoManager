@@ -2,7 +2,7 @@
 using System.Security.Cryptography;
 using System.Text;
 
-namespace SECUiDEACryptoManager.Services.Helpers
+namespace CryptoManager.Services.Helpers
 {
     /// <summary>
     /// AES 암복호화 공통 유틸리티

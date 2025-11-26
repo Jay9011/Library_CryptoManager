@@ -1,10 +1,9 @@
-﻿using System;
+﻿using CryptoManager.Services.Helpers;
+using System;
 using System.Security.Cryptography;
 using System.Text;
-using CryptoManager;
-using SECUiDEACryptoManager.Services.Helpers;
 
-namespace SECUiDEACryptoManager.Services
+namespace CryptoManager.Services
 {
     public class SafetyAES256 : ICryptoManager, ICryptoKeyManager
     {

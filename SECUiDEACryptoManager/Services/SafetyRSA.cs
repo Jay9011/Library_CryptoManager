@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Security.Cryptography;
 using System.Text;
-using CryptoManager;
 
-namespace SECUiDEACryptoManager.Services
+namespace CryptoManager.Services
 {
     /// <summary>
     /// RSA 공개키 암호화 구현체 (OAEP 패딩 사용)
